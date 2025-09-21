@@ -22,7 +22,7 @@ go run ./cmd/myapp
 - curl -i http://localhost:8080/fail
 ## Результаты выполнения запросов
 <img width="887" height="154" alt="изображение" src="https://github.com/user-attachments/assets/09f98df6-dcfd-4b0a-a2fd-3f50e78fa993" />
-
+---
 <img width="914" height="872" alt="изображение" src="https://github.com/user-attachments/assets/31948a9b-1436-4f10-bfc3-7753b3b4ebc4" />
 
 
